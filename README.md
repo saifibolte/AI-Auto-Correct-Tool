@@ -73,8 +73,8 @@ AI-Auto-Correct-Tool/
 
 ## How it works: 
 
-- Text Cleaning: Remove extra spaces and normalize input text
-- Spelling Correction: Word-level correction with pyspellchecker
-- Grammar & Fluency: Context-aware corrections using Flan-T5
-- Proper Noun Preservation: Detect and preserve names before grammar correction
-- Display Results: Side-by-side comparison of original and corrected text
+- **Text Cleaning:** Remove extra spaces and normalize input text
+- **Spelling Correction:** Word-level correction with pyspellchecker
+- **Grammar & Fluency:** Context-aware corrections using Flan-T5
+- **Proper Noun Preservation:** Detect and preserve names before grammar correction
+- **Display Results:** Side-by-side comparison of original and corrected text
